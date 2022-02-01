@@ -5,8 +5,8 @@ A small collection of my own scripts that I use.
 | --------------------- | ----------- |:----:|
 |  [generate-tar.zg-from-folders.ps1](PowerShell/generate-tar.zg-from-folders.ps1) | Generates tar.gz files in Windows from folders that this file is placed in with. | PowerShell |
 |  [install-lamp_lite.sh](PowerShell/generate-tar.zg-from-folders.ps1) | Install apache2, PHP8 and a few more packages + enable apache2 modules. | Shell |
-|  [install-asp.net_5.0.sh](Shell/install-asp.net_5.0.sh) | Generates tar.gz files in Windows from folders that this file is placed in with. | Shell |
-|  [install-asp.net_6.0.sh](Shell/install-asp.net_6.0.sh) | Install ASP.NET Runtime to Ubuntu 10.04.x (focal fossa) LTS. | Shell |
+|  [install-asp.net_5.0.sh](Shell/install-asp.net_5.0.sh) | Install ASP.NET 5 Runtime to Ubuntu 20.04.x (focal fossa) LTS. | Shell |
+|  [install-asp.net_6.0.sh](Shell/install-asp.net_6.0.sh) | Install ASP.NET 6 Runtime to Ubuntu 20.04.x (focal fossa) LTS. | Shell |
 |  [install-cockpit.sh](Shell/install-cockpit.sh) | Install cockpit. | Shell |
 |  [install-docker.sh](PowerShell/generate-tar.zg-from-folders.ps1) | Install docker. | Shell |
 |  [container-portainer_ce.sh](Shell/container-portainer_ce.sh) | Creates a docker container named `portainer` using latest Portainer CE image. | Shell |
